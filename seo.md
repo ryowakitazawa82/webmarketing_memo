@@ -55,7 +55,7 @@
 - [参考サイト](https://www.seohacks.net/blog/8830/)
 
 ## 効果的な内部リンク設置法
-- [参考サイト](https://n-works.link/blog/wordpress/wordpress-internal-link）
+- [参考サイト](https://n-works.link/blog/wordpress/wordpress-internal-link)
 
 ## クリック率改善
 ### ユーザーにとって最適なもの＝検索上位のアルゴリズムをGoogleは目指しており、それに近づいている
