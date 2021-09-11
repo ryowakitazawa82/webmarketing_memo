@@ -44,7 +44,7 @@
 
 # SEO改善
 ## アクセス解析
-- [参考サイト](https://n-works.link/blog/marketing/about-access-analysis）
+- [参考サイト](https://n-works.link/blog/marketing/about-access-analysis)
 - アクセス数の多い記事を改善・リライトするべき
     - ユーザーがあまり訪れないページを改善しても、サイト全体のCV数の大きな改善は見込めません。つまり「伸びしろをさらに伸ばす」ということです
     - 離脱率が高い記事が改善が必要
