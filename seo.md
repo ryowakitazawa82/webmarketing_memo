@@ -1,11 +1,10 @@
 # アナリティクスについて
 
 ## アナリティクスのゼロからの設定
- - https://www.seohacks.net/blog/10560/
+- [参考サイト](https://www.seohacks.net/blog/10560/)
 
 ## アナリティクスの使い方
-- 参考サイト
-    -  https://www.seohacks.net/blog/9985/
+- [参考サイト](ttps://www.seohacks.net/blog/9985/)
 - 導入する方法
     - STEP1　プロパティの作成
     - STEP2　設定
@@ -16,22 +15,20 @@
         - first_visit：ウェブサイトにユーザーが初めてアクセスしたときに計測される
         - session_start：ユーザーがウェブサイトを利用してセッションが開始されたときにのみ計測される
 ## トラッキングIDを発行する方法
-- 参考サイト
-    - https://www.seohacks.net/blog/10545/
+- [参考サイト](https://www.seohacks.net/blog/10545/)
 
 ## アナリティクスの分析方法
-- 参考サイト
-    - https://www.seohacks.net/blog/10573/
+- [参考サイト](https://www.seohacks.net/blog/10573/)
 - レポーティング
 - イベントの作成
 
 # SEO基礎
 ## ワードプレスでまずやるべきSEO対策
-- https://www.seohacks.net/blog/10438/
+- [参考サイト](https://www.seohacks.net/blog/10438/)
  -  マニュアルと同じことがかかれているが、簡潔にまとめられているため掲載
 
 ## 自然検索キーワードの調べ方と分析方法
--  [参考サイト](https://www.seohacks.net/blog/10282/)
+- [参考サイト](https://www.seohacks.net/blog/10282/)
 - 検索キーワードを調べる方法は大きく2つ
     - Googleアナリティクス
     - GoogleSearchConsole
@@ -40,14 +37,14 @@
         - 自然検索キーワードには、ユーザーの求めているものや知りたいこと、悩んでいることが色濃く反映される
 
 ## 自然検索で上位表示させる方法
--  [参考サイト](https://www.seohacks.net/blog/10280/）
+- [参考サイト](https://www.seohacks.net/blog/10280/）
 - 外部施策を行う
     - 外部からの被リンク
     - SNSで拡散する
 
 # SEO改善
 ## アクセス解析
--[参考サイト](https://n-works.link/blog/marketing/about-access-analysis）
+- [参考サイト](https://n-works.link/blog/marketing/about-access-analysis）
 - アクセス数の多い記事を改善・リライトするべき
     - ユーザーがあまり訪れないページを改善しても、サイト全体のCV数の大きな改善は見込めません。つまり「伸びしろをさらに伸ばす」ということです
     - 離脱率が高い記事が改善が必要
