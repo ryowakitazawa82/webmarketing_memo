@@ -14,3 +14,21 @@
 
 ## 広告が表示されない理由
 -[参考サイト](https://n-works.link/blog/webad/listing-dontshow)
+
+## マッチタイプ使い分け
+- [参考サイト](https://n-works.link/blog/webad/listing-match-types)
+
+## グループ設計方法
+- [参考サイト](https://n-works.link/blog/webad/listing-ad-group-design)
+
+##  広告分改善
+- [参考サイト](https://n-works.link/blog/webad/listing_ctr)
+
+## レポート作成方法
+- [参考サイト](https://n-works.link/blog/webad/reporting_listing)
+
+## キーワード選定
+- [参考サイト](https://n-works.link/blog/webad/listing-keyword)
+
+## リマーケティング広告始め方ガイド
+- [参考サイト](https://n-works.link/blog/webad/remarkteing-ads)

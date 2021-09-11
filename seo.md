@@ -45,8 +45,6 @@
     - 外部からの被リンク
     - SNSで拡散する
 
-
-
 # SEO改善
 ## アクセス解析
 -[参考サイト](https://n-works.link/blog/marketing/about-access-analysis）
@@ -56,10 +54,11 @@
     - CVに関わるページで離脱率が高い場合は、早急な改善が必要かもしれません
         - PVが多いにも関わらずCVが少ない場合は、コンテンツの内容や導線設計、もしくは入力フォームに問題がある可能も
 
-
-
 ## リライト
 - [参考サイト](https://www.seohacks.net/blog/8830/)
+
+## 効果的な内部リンク設置法
+- [参考サイト](https://n-works.link/blog/wordpress/wordpress-internal-link）
 
 ## クリック率改善
 ### ユーザーにとって最適なもの＝検索上位のアルゴリズムをGoogleは目指しており、それに近づいている
@@ -78,9 +77,11 @@
 - 原因を特定する
 - 原因に合わせて対策
 
+
+
 # その他
 ## SEOツール
 - [参考サイト](https://www.seohacks.net/blog/6886/)
 
 ## ライティングの依頼に関する基本
-- [参考サイト]https://www.seohacks.net/blog/10184/)
+- [参考サイト](https://www.seohacks.net/blog/10184/)
