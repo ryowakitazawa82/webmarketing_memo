@@ -82,3 +82,12 @@
 
 ## ライティングの依頼に関する基本
 - [参考サイト](https://www.seohacks.net/blog/10184/)
+
+
+# 設定
+
+## GA4から旧管理画面へ
+- https://planning-a.jp/topics/creative/9375
+
+## IPアドレス除外
+- Udemy『アナリティクス改善/3.3-1』参照
